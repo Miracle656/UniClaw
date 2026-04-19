@@ -1,45 +1,135 @@
-# Faculties
-_Last updated: 2026-04-17_
-_Source: https://unilag.edu.ng_
+# Faculties, Departments & Contacts
+_Last updated: April 2026_
+_Source: https://unilag.edu.ng/faculties_
 
-## Overview
-UNILAG operates across three main campuses — the Main Campus (Akoka), the College of Medicine (Idi-Araba), and the Distance Learning Institute.
+---
 
-## Faculties (Akoka Main Campus)
+## Faculties at UNILAG
 
-- **Arts** — Creative Arts, English, History & Strategic Studies, Linguistics, Philosophy, European & African Languages
-- **Science** — Biochem, Botany, Chemistry, Computer Sciences, Marine Sciences, Mathematics, Microbiology, Physics, Statistics, Zoology
-- **Engineering** — Chemical & Petroleum, Civil & Environmental, Computer, Electrical & Electronics, Mechanical, Metallurgical & Materials, Surveying & Geoinformatics, Systems
-- **Law** — single Faculty of Law building, split across Akoka and a secondary site [VERIFY]
-- **Education** — Adult Education, Arts & Social Sciences Education, Educational Foundations, Educational Management, Human Kinetics & Health Education, Science & Technology Education
-- **Social Sciences** — Economics, Geography, Mass Communication, Political Science, Psychology, Social Work, Sociology
-- **Management Sciences** — Accounting, Actuarial Science, Business Administration, Finance, Industrial Relations & Personnel Management, Insurance, Taxation [VERIFY list]
-- **Environmental Sciences** — Architecture, Building, Estate Management, Quantity Surveying, Urban & Regional Planning
-- **Pharmacy**
-- **Dental Sciences** [VERIFY location — Idi-Araba]
+### 1. Faculty of Arts
+- **Dean's Office:** Faculty of Arts Building, Main Campus
+- **Email:** arts@unilag.edu.ng [VERIFY]
+- **Departments:** English, History & Strategic Studies, Philosophy, Linguistics & African Languages, European Languages, Creative Arts, Music
+- **Portal:** https://unilag.edu.ng/faculty-of-arts
 
-## College of Medicine (Idi-Araba)
-- **Basic Medical Sciences** — Anatomy, Medical Biochemistry, Physiology
-- **Clinical Sciences**
-- **Basic Clinical Sciences**
-- **Dental Sciences**
-- **Public Health**
+### 2. Faculty of Business Administration
+- **Dean's Office:** FBA Building, Main Campus
+- **Email:** fba@unilag.edu.ng [VERIFY]
+- **Departments:** Accounting, Actuarial Science, Business Administration, Finance, Insurance
+- **Portal:** https://unilag.edu.ng/faculty-of-business-administration
 
-## School of Postgraduate Studies
-Coordinates postgraduate programmes across all faculties. Applications open roughly twice a year.
+### 3. Faculty of Education
+- **Dean's Office:** Faculty of Education Building
+- **Email:** education@unilag.edu.ng [VERIFY]
+- **Departments:** Adult Education, Arts & Social Sciences Education, Early Childhood Education, Educational Administration, Health & Physical Education, Human Kinetics, Science Education, Special Education & Curriculum Studies
+
+### 4. Faculty of Engineering
+- **Dean's Office:** Engineering Faculty Building
+- **Email:** engineering@unilag.edu.ng [VERIFY]
+- **Departments:** Chemical Engineering, Civil Engineering, Electrical/Electronics Engineering, Mechanical Engineering, Metallurgical & Materials Engineering, Systems Engineering, Computer Engineering, Surveying & Geoinformatics
+- **Workshop/Lab:** Engineering Complex, rear of faculty building
+
+### 5. Faculty of Environmental Sciences
+- **Dean's Office:** Environmental Sciences Building
+- **Departments:** Architecture, Building, Estate Management, Quantity Surveying, Urban & Regional Planning
+
+### 6. Faculty of Law
+- **Dean's Office:** Faculty of Law Building
+- **Email:** law@unilag.edu.ng [VERIFY]
+- **Note:** 5-year programme; Nigerian Law School after graduation
+- **Law Clinic:** Available for student practice
+
+### 7. Faculty of Medicine (College of Medicine - CMUL)
+- **Location:** Idi-Araba Campus, Surulere (separate from main campus)
+- **Email:** medicine@unilag.edu.ng [VERIFY]
+- **Departments:** Medicine & Surgery, Dentistry, Basic Medical Sciences, Nursing, Physiotherapy, Radiography
+- **Teaching Hospital:** LUTH (Lagos University Teaching Hospital) — adjacent to CMUL
+- **Transport:** UNILAG shuttle runs between main campus and CMUL [VERIFY schedule]
+
+### 8. Faculty of Pharmacy
+- **Dean's Office:** Pharmacy Building, Main Campus
+- **Departments:** Clinical Pharmacy & Biopharmacy, Pharmacognosy, Pharmaceutics & Pharmaceutical Technology, Pharmacology
+
+### 9. Faculty of Science
+- **Dean's Office:** Science Faculty Building
+- **Email:** science@unilag.edu.ng [VERIFY]
+- **Departments:** Biochemistry, Botany, Cell Biology & Genetics, Chemistry, Computer Science, Mathematics, Microbiology, Physics, Statistics, Zoology
+- **Notable:** Computer Science dept is one of the largest in Nigeria
+
+### 10. Faculty of Social Sciences
+- **Dean's Office:** Social Sciences Building
+- **Departments:** Economics, Geography, Mass Communication, Political Science, Psychology, Sociology
+
+### 11. Faculty of Dental Sciences
+- **Location:** CMUL, Idi-Araba [VERIFY — may be under College of Medicine]
+
+### 12. School of Postgraduate Studies
+- **Office:** Senate Building, Main Campus
+- **Email:** spgs@unilag.edu.ng [VERIFY]
+- **Programmes:** MA, MSc, MBA, MPhil, PhD across all faculties
+
+---
+
+## Key Administrative Offices
+
+| Office | Location | Contact |
+|---|---|---|
+| Vice Chancellor's Office | Senate Building | vc@unilag.edu.ng |
+| Registrar's Office | Senate Building | registrar@unilag.edu.ng |
+| Bursary (Finance) | Admin Block, Block B | bursary@unilag.edu.ng |
+| Dean of Students Affairs | Student Centre | dos@unilag.edu.ng |
+| ICT Helpdesk | ICT Building | ict@unilag.edu.ng |
+| University Health Centre | Health Centre Building | health@unilag.edu.ng |
+| Library | Kenneth Dike Library | library@unilag.edu.ng |
+| Security | Main Gate / Security Post | — |
+
+---
+
+## University Health Centre
+- Location: Health Centre, near the Sports Complex
+- Services: General consultation, pharmacy, basic lab tests, dental
+- Hours: 8am – 4pm weekdays; emergency line available 24/7 [VERIFY]
+- Students: Bring your student ID for subsidized treatment
+- Referrals to LUTH for serious cases
+
+---
+
+## Kenneth Dike Library
+- Location: Central campus, easily visible
+- Hours: Mon–Fri 8am–10pm; Sat 9am–5pm; Sun 12pm–6pm [VERIFY]
+- E-Library: Access via library portal with student credentials
+- Journals: JSTOR, Springer, and other databases available on campus network
+- Borrowing: Up to 4 books at a time for undergrad students [VERIFY]
+
+---
 
 ## FAQs
-Q: Can I change my faculty after admission?
-A: Inter-faculty transfer is possible at the end of 100 level, subject to CGPA requirements and the receiving faculty's approval.
 
-Q: How many students are in each faculty?
-A: Varies widely. Use the Academic Planning Unit's annual statistics bulletin for exact numbers. [VERIFY]
+**Q: How do I get a lecturer's contact?**
+A: Check your faculty's official page on unilag.edu.ng, or ask the departmental secretary. Lecturers' emails are usually [firstname.lastname]@unilag.edu.ng [VERIFY format].
+
+**Q: Where is the Bursary for fee issues?**
+A: Administrative Building, Block B. Go with your payment receipt and student ID.
+
+**Q: Can I visit CMUL from main campus?**
+A: Yes — UNILAG runs shuttle buses between campuses. Check the current schedule at the Students Affairs office or main gate.
+
+**Q: Where do I get my student ID card?**
+A: Senate Building, Registry. Bring your admission letter and passport photograph.
+
+---
 
 ## Official Links
-- UNILAG homepage: https://unilag.edu.ng
-- SPGS: https://spgs.unilag.edu.ng [VERIFY]
+- Faculty Pages: https://unilag.edu.ng/faculties
+- Staff Directory: https://unilag.edu.ng/staff [VERIFY]
+- Library Portal: https://library.unilag.edu.ng [VERIFY]
+- CMUL: https://cmul.edu.ng
+
+---
 
 ## Data Gaps
-- Current Dean of each faculty (names/contacts)
-- Accurate department list for Management Sciences and Dental Sciences
-- Whether any new faculty has been created recently
+- Direct HOD contact numbers per department
+- Specific lecturer office hours
+- Current Dean names per faculty (changes with tenure)
+- CMUL shuttle bus schedule
+_Contribute with /contribute if you have accurate info_

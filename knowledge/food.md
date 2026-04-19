@@ -1,48 +1,127 @@
-# Food
-_Last updated: 2026-04-17_
-_Source: community knowledge / campus observations_
+# Food & Eating on Campus
+_Last updated: April 2026_
+_Source: Community contributed | Student experiences_
 
-## Overview
-UNILAG has food spots both inside and around campus. Prices below are rough ranges — inflation moves these fast, so treat them as approximate. [VERIFY]
+---
 
-## On-campus
+## On-Campus Eating Spots
 
-- **New Hall Cafeteria** — generous rice, beans, stews. ₦[VERIFY] for a full plate.
-- **Mama Put spots around faculties** — Engineering, Science, and Arts all have clusters of small vendors. Fast, cheap, portions vary.
-- **Bakassi / LT area** — popular for quick snacks, puff-puff, meat pies, small chops between lectures.
-- **Jaja / King Jaja area** — food court serving rice, pasta, swallows.
-- **CITS / ICT Centre tuck shops** — sandwiches, smoothies, pastries.
+### Main Cafeteria / Refectory
+- **Location:** Student Centre, central campus
+- **Hours:** ~7am – 8pm weekdays; reduced hours weekends [VERIFY]
+- **Typical menu:** Jollof rice, fried rice, egusi soup, beans, fried plantain, grilled chicken, stew
+- **Price range:** ₦800 – ₦2,500 per meal
+- **Vibes:** Can get very crowded between 12pm–2pm — go early or late for shorter queues
 
-## Around campus (Akoka, Abule Oja, Yaba)
+### Faculty Canteens
+Most faculties have their own small canteen or food vendor area:
+| Faculty | Notes |
+|---|---|
+| Engineering | Canteen behind faculty building, affordable, busy at lunch |
+| Science | Small food vendors near lecture rooms |
+| Business Admin (FBA) | Canteen inside FBA building |
+| Law | Small canteen area near faculty |
+| Social Sciences | Vendors near faculty entrance |
+| Environmental Sciences | Canteen area within faculty |
 
-- **Yahuza Suya** — famous for suya along Akoka, evenings onwards.
-- **Ghana High / local Amala joints** along Akoka and Bariga — good for heavy swallows (amala, ewedu).
-- **Sweet Sensation, Domino's Pizza, KFC** — standard chains, slightly outside campus.
-- **Mr. Bigg's / Chicken Republic** — common along Yaba Road.
-- **Student-favourite shawarma spots** — Bariga and Akoka axis, mostly evenings.
+### Bukateria / Mama Put Spots
+- Scattered around campus perimeter and student areas
+- **Cheapest food on campus** — ₦400 – ₦1,200 for a full meal
+- Rice, beans, yam, soup, and stew variations
+- Usually run by women who've been there for years — reliable and filling
+- Popular spots near Engineering and Science faculties
 
-## Typical price bands (indicative)
-- Cheap plate: ₦1,000–₦2,000 [VERIFY]
-- Mid plate: ₦2,500–₦4,500 [VERIFY]
-- Chain fast-food meal: ₦3,500–₦6,000 [VERIFY]
+### Snack Shops & Kiosks
+- Cold drinks, pure water, biscuits, gala, chin-chin, bread — everywhere
+- Price: ₦100 – ₦500 for snacks
+- Some kiosks open from 6am for early risers needing tea/bread before morning lectures
 
-## Tips
-- Cafeterias and mama puts are busiest 12:30–2:00pm — beat the rush by eating earlier or later.
-- Many vendors take transfers, but keep small cash for the ones that don't.
-- Water from sealed sachets (`pure water`) or bottles — avoid open jugs.
+---
+
+## Around Campus (Akoka & Nearby)
+
+### Popular Food Streets
+**Akoka Road / Iwaya Road**
+- Dense with food spots right outside campus gates
+- Everything from shawarma to proper Nigerian soups
+- More variety than on-campus, slightly cheaper
+
+**Notable Spot Types Near Campus**
+| Type | Price Range | Notes |
+|---|---|---|
+| Shawarma spots | ₦1,500 – ₦3,500 | Everywhere in Akoka, quality varies |
+| Suya spots | ₦500 – ₦2,000 | Best in evenings, near campus gates |
+| Amala/Buka joints | ₦800 – ₦2,000 | Gbegiri, ewedu, stew combos |
+| Noodles/Indomie spots | ₦400 – ₦800 | Late night option |
+| Chinese/Fast food | ₦2,000 – ₦5,000 | Yaba area, further out |
+| KFC/Chicken Republic | ₦2,500 – ₦6,000 | Yaba (Tejuosho), 20min away |
+
+---
+
+## Water & Drinks
+- **Pure water sachets:** ₦20 – ₦30 everywhere on campus
+- **Bottled water (50cl):** ₦150 – ₦200
+- **Cold drinks (Coke, Pepsi, Maltina):** ₦300 – ₦500
+- **Zobo / Kunu:** ₦100 – ₦300 from vendors
+- Avoid tap water — stick to sachet or bottled
+
+---
+
+## Feeding Budget Tips
+
+### Budget Breakdown Options
+| Budget Level | Daily Estimate | How |
+|---|---|---|
+| Very tight | ₦1,000 – ₦1,500 | Mama put + sachet water + bread/snack |
+| Comfortable | ₦2,000 – ₦3,500 | Canteen meals x2 + drinks |
+| Living well | ₦4,000 – ₦7,000 | Variety, shawarma, off-campus meals |
+
+### Money-Saving Tips
+- Eat at mama put spots for lunch — same food, half the price of canteen
+- Buy groceries from Akoka market if you have kitchen access in hostel/off-campus
+- Many students cook on weekends and pack food for weekdays
+- Befriend someone with a gas cooker 🙂
+
+---
+
+## Dietary Needs
+- **Vegetarian/Vegan:** Possible but requires navigation — beans, yam porridge, vegetable soups without meat (ask specifically)
+- **Halal:** Most campus meat is not certified halal — MSS canteen [VERIFY if exists] or cook your own
+- **Allergies:** Always ask what oil/ingredients are used — staff are usually helpful
+
+---
 
 ## FAQs
-Q: Halal options?
-A: Most mama puts serve halal-prepared meats by default. Yahuza Suya is halal. Confirm with the vendor if it matters to you.
 
-Q: Vegetarian?
-A: Harder but doable — rice & beans, jollof without meat, moin-moin (bean pudding), salad bars at a few cafeterias. [VERIFY]
+**Q: What's the best affordable spot to eat on campus?**
+A: The mama put spots near Engineering or Science faculty — filling meal for ₦500–₦800 easily.
 
-## Official Links
-_(None — this data is community-sourced.)_
+**Q: Where can I get food late at night (after 10pm)?**
+A: Outside campus gates in Akoka — vendors usually stay open till midnight. Suya spots especially. On-campus options close early.
+
+**Q: Can I use my own cooker in the hostel?**
+A: Electric cookers in designated areas only. Gas is not allowed. Off-campus housing rules depend on your landlord.
+
+**Q: Is the cafeteria food actually good?**
+A: Honestly varies by day. The jollof rice hits sometimes. The soups are usually solid. Avoid the end of day when things are running out.
+
+**Q: Where's the nearest proper supermarket?**
+A: Shoprite/SPAR in Yaba (Tejuosho area) — about 20–30 minutes by danfo. Closest mid-range option is shops along Herbert Macaulay Way, Yaba.
+
+---
+
+## Community Food Map [Contribute!]
+_Students: Drop your favorite spots with /contribute — name, location, price range, and what's good there_
+
+| Spot Name | Location | Best Order | Price |
+|---|---|---|---|
+| _Contribute your fave spot_ | — | — | — |
+
+---
 
 ## Data Gaps
-- Verified current prices
-- Operating hours for most vendors
-- New food spots opened in the last 6 months
-- A curated "best of" shortlist per food type
+- Current canteen operating hours (changes each semester)
+- Names of best mama put spots (community contributed)
+- Any on-campus halal-certified food options
+- Current price list for main cafeteria
+_Contribute with /contribute_

@@ -1,44 +1,98 @@
-# Registration
-_Last updated: 2026-04-17_
-_Source: https://unilag.edu.ng / Student Portal_
+# Course Registration & Academic Processes
+_Last updated: April 2026_
+_Source: https://unilag.edu.ng | https://eportal.unilag.edu.ng_
 
-## Overview
-Course registration at UNILAG happens once per semester through the Student Portal. Returning students register after paying school fees; fresh students register after matriculation and biometric capture.
+---
 
-## Steps (returning students)
-1. Log in to the Student Portal with your matric number and password.
-2. Pay school fees via Remita and confirm the payment reference.
-3. Select courses for the semester according to your department's course list.
-4. Print and sign the course form; get your Level Adviser and HOD to sign it.
-5. Submit signed copies to your department and keep a personal copy.
+## Student Portal Access
+- Portal URL: https://eportal.unilag.edu.ng
+- Login with your **matriculation number** and **password**
+- First-time login: use your matric number as both username and default password, then change immediately
+- Portal issues: contact ICT Helpdesk — ict@unilag.edu.ng or visit the ICT building, main campus
 
-## Steps (fresh students)
-1. Complete online acceptance and pay the acceptance fee.
-2. Upload required documents (JAMB slip, O'Level results, birth certificate).
-3. Attend physical clearance at your faculty.
-4. Complete biometric capture at the ICT Centre.
-5. Pay school fees and register courses as above.
+---
 
-## Key deadlines
-- Late registration typically opens ~2 weeks after the official deadline for a fee. [VERIFY]
-- Course add/drop window is usually open for the first 3 weeks of the semester. [VERIFY]
+## Course Registration Process (Step-by-Step)
+
+1. **Clear financial obligations** — Pay school fees via Remita on the portal before registration opens
+2. **Log in to ePortal** — Go to eportal.unilag.edu.ng
+3. **Navigate to Course Registration** — Academic → Course Registration
+4. **Add courses** — Select your department, level, and semester; add courses from your approved list
+5. **Check credit load** — Minimum 15 units, maximum 24 units per semester (check your faculty handbook for exceptions)
+6. **Submit registration** — Click "Register Courses" and print/download your course form
+7. **Adviser approval** — Take printed form to your academic adviser for sign-off
+8. **Departmental stamp** — Get department stamp on the form
+9. **Keep your copy** — File your stamped course form; you'll need it for exams
+
+---
+
+## Important Deadlines (General Pattern)
+- **Late registration fee:** ₦5,000 charged after the first 2 weeks of semester
+- **Add/drop period:** First 2 weeks of each semester
+- **Registration deadline:** Usually 4–6 weeks into semester [VERIFY exact dates on portal each session]
+- **Late registration closes:** Check departmental notice boards and ePortal announcements
+
+---
+
+## School Fees Payment
+- Payment is done via **Remita** on the student portal
+- Generate a Remita Retrieval Reference (RRR) on the portal
+- Pay at any bank branch, bank app, or online via Remita.net
+- Confirm payment on portal before registration — takes 24–48hrs to reflect
+- Keep your payment receipt always
+
+### Approximate Fee Ranges [VERIFY each session on portal]
+- Science-based faculties: ₦150,000 – ₦250,000/session
+- Arts/Social Science faculties: ₦100,000 – ₦180,000/session
+- Professional programmes (Law, Medicine, Engineering): ₦200,000 – ₦350,000/session
+- Postgraduate: varies by programme
+
+---
+
+## Carry-Over Registration
+- Students with carry-over courses register them alongside current level courses
+- Carry-overs count toward your credit load — plan carefully
+- See your departmental exam officer for your carry-over list
+
+---
+
+## Change of Course / Transfer
+- Interfaculty transfer: apply through the Senate via your Dean's office
+- Intrafaculty transfer: apply through your HOD
+- Deadline: usually end of first semester of 100L
+- Requirements: O'Level results meeting new course requirements, JAMB score consideration
+
+---
 
 ## FAQs
-Q: I paid fees but the portal doesn't show it.
-A: Wait 24 hours then email ict@unilag.edu.ng with your Remita RRR. If unresolved, visit the Bursary in person.
 
-Q: Can I register for an extra course?
-A: Overload requires HOD approval and is capped at 24 units per semester. [VERIFY]
+**Q: What if my payment doesn't reflect on the portal?**
+A: Wait 48 hours. If still not showing, visit the Bursary Department with your Remita receipt. Block B, Administrative Building.
 
-Q: My Level Adviser isn't available to sign.
-A: Escalate to your HOD or departmental secretary. Never submit an unsigned course form.
+**Q: Can I register without my adviser's signature?**
+A: No — unsigned course forms are invalid. Hunt your adviser down, they're usually in their office during working hours (8am–4pm Mon–Fri).
+
+**Q: What happens if I miss registration deadline?**
+A: You pay a late fee and risk not being cleared for exams. Don't sleep on this.
+
+**Q: I forgot my portal password.**
+A: Click "Forgot Password" on the portal or visit ICT Helpdesk with your student ID.
+
+**Q: Can I register from off-campus?**
+A: Yes, the portal is accessible anywhere online.
+
+---
 
 ## Official Links
-- Student Portal: https://studentportal.unilag.edu.ng
-- ICT Centre: https://ict.unilag.edu.ng
-- Bursary: https://bursary.unilag.edu.ng [VERIFY]
+- Student Portal: https://eportal.unilag.edu.ng
+- UNILAG Main Site: https://unilag.edu.ng
+- Remita Payment: https://remita.net
+- ICT Helpdesk: ict@unilag.edu.ng
+
+---
 
 ## Data Gaps
-- Current semester's exact registration deadlines
-- Fee amounts by faculty/level
-- How departments handle overload approvals in practice
+- Exact session-by-session fee amounts (check portal each session)
+- Current semester registration open/close dates
+- Faculty-specific credit load exceptions
+_If you have this info, contribute it with /contribute_

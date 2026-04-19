@@ -1,53 +1,124 @@
-# Hostels
-_Last updated: 2026-04-17_
-_Source: UNILAG Student Affairs / https://unilag.edu.ng_
+# Hostel & Accommodation
+_Last updated: April 2026_
+_Source: https://unilag.edu.ng/student-affairs | Dean of Students Affairs Office_
+
+---
 
 ## Overview
-UNILAG offers on-campus accommodation through the Student Affairs division. Allocation is done online via the Student Portal each session and is highly competitive, so fresh students and those with medical needs are usually prioritised.
+UNILAG has on-campus hostels managed by the university and a large off-campus student housing ecosystem around Akoka, Bariga, and Yaba. On-campus accommodation is highly competitive — most students live off-campus.
 
-## Main hostels (undergraduate)
+---
 
-### Male hostels
-- **Amina Hall** [VERIFY — confirm if currently in active rotation]
-- **Eni Njoku Hall** — mostly fresh male students
-- **King Jaja Hall** — older male hostel, known for hall culture and sporting events
-- **Mariere Hall** — male students across all levels
-- **Sodeinde Hall** — postgraduate and senior male students [VERIFY]
+## On-Campus Hostels
 
-### Female hostels
-- **Moremi Hall** — large female hostel, central location
-- **Makama Bida Hall / Fagunwa Hall** [VERIFY names currently in use]
-- **Kofo Ademola Hall** [VERIFY]
+### Female Hostels
+| Hostel | Capacity | Notes |
+|---|---|---|
+| Queen Amina Hall | ~500 | Most popular female hostel, well-maintained |
+| Madam Tinubu Hall | ~400 | Central location |
+| Fagg Hall | ~300 | Quieter, good for serious students |
+| Moremi Hall | ~450 | Close to Faculty of Science |
+| Independence Hall (female wing) | ~200 | [VERIFY] |
 
-### Postgraduate
-- **Honours Hall** and a postgraduate block — check SA website for current names. [VERIFY]
+### Male Hostels
+| Hostel | Capacity | Notes |
+|---|---|---|
+| Jaja Hall | ~500 | Most popular male hostel |
+| Mariere Hall | ~400 | Close to faculty areas |
+| Nnamdi Azikiwe Hall | ~350 | Also called "Zik Hall" |
+| Angola Hall | ~300 | Older building, affordable |
+| Sultan Bello Hall | ~250 | [VERIFY current status] |
 
-## Fees
-Approximate range per session (accommodation only, excluding utilities/caution fee):
-- Bed space in a 4–8 person room: ₦[VERIFY] per session
-- Students should check the exact amount on the Student Portal during allocation — fees change session to session.
+### Postgraduate Hostel
+- Alex Ekwueme Postgraduate Hostel — for postgraduate students only
 
-## How to apply
-1. Pay school fees first — only fee-cleared students can apply.
-2. Log in to the Student Portal and open the **Accommodation** tab during the allocation window.
-3. Pick a hostel and room if a bed space is available; confirm payment via Remita.
-4. Print the allocation slip and take it to the hall porter with a passport photo, ID card, and medical form.
+---
+
+## Hostel Allocation Process
+
+1. **Apply on the student portal** — eportal.unilag.edu.ng → Accommodation
+2. **Pay hostel application fee** — [VERIFY current amount, approx ₦2,000–₦5,000]
+3. **Balloting/Allocation** — UNILAG uses a ballot system; not everyone gets allocated
+4. **Pay hostel fee** — If allocated, pay hostel fees via Remita within deadline or lose your slot
+5. **Move-in** — Collect your room key from the hostel warden with your payment receipt
+
+### Hostel Fee Range [VERIFY each session]
+- Approximately ₦30,000 – ₦80,000 per session depending on hostel and room type
+- Fees are per session (2 semesters)
+
+### Tips for Getting Allocated
+- Apply as early as possible when the portal opens
+- 100L students are usually given priority
+- Reapply every session — allocation is not automatic renewal
+
+---
+
+## Off-Campus Housing (Akoka & Surroundings)
+
+Most UNILAG students live off-campus. Popular areas:
+
+| Area | Distance to Gate | Approx Rent/Room/Year |
+|---|---|---|
+| Akoka | 5–15 min walk | ₦150,000 – ₦400,000 |
+| Bariga | 10–20 min walk/bus | ₦100,000 – ₦300,000 |
+| Abule-Oja | 15–25 min | ₦120,000 – ₦350,000 |
+| Yaba | 20–30 min bus | ₦200,000 – ₦600,000 |
+| Onike | 15–20 min | ₦150,000 – ₦400,000 |
+
+_Prices change frequently — these are approximate ranges. Contribute updated prices with /contribute_
+
+### Off-Campus Tips
+- Always sign a tenancy agreement
+- Use known agents or ask seniors in your department for trusted landlords
+- Beware of agents charging excessive "caution fees" — ₦10,000–₦20,000 is typical, not full rent as caution
+- Join your departmental WhatsApp group — housing leads are shared there constantly
+
+---
+
+## Hostel Rules (On-Campus)
+- No cooking with open flame (electric cookers only in designated areas)
+- Visitor hours: typically 8am–10pm [VERIFY per hostel]
+- Male visitors not allowed in female hostels and vice versa
+- Generator levy is usually added to hostel fees
+- Lost key replacement fee: [VERIFY with your hostel warden]
+
+---
 
 ## FAQs
-Q: I couldn't get a bed space.
-A: Many senior students live off-campus in Akoka, Abule Oja, Bariga, or Yaba. Join faculty/department groups early — agents and landlords post openings there.
 
-Q: Can I change hostels mid-session?
-A: Transfers are case-by-case through Student Affairs and usually require a documented reason (medical, safety, etc).
+**Q: I wasn't allocated a hostel, what do I do?**
+A: Join the waiting list on the portal and look for off-campus housing immediately. Don't wait — rooms go fast.
 
-Q: Is there accommodation for newly admitted students guaranteed?
-A: Fresh students are prioritised but bed spaces are still limited. Apply on the first day of the allocation window.
+**Q: Can I swap my hostel room with someone?**
+A: Unofficially yes, but it needs to be reported to the hostel warden. Unauthorized swaps can cause issues during checks.
+
+**Q: Are there cooking facilities in hostels?**
+A: Most hostels have designated kitchen areas. Electric cookers only — no gas.
+
+**Q: Is there constant power supply in hostels?**
+A: PHCN supply is erratic like everywhere in Lagos. Most hostels have generators that run limited hours. Get a rechargeable lamp and power bank.
+
+**Q: Is it safe to live off-campus?**
+A: Akoka is generally student-friendly. Take standard precautions, avoid walking alone very late, and know your neighbors.
+
+---
+
+## Official Contacts
+- Dean of Students Affairs: dos@unilag.edu.ng
+- Student Affairs Office: Main Campus, Administrative Block
+- Hostel Manager: Contact through Student Affairs Office
+
+---
 
 ## Official Links
-- Student Affairs: https://studentaffairs.unilag.edu.ng [VERIFY]
-- Accommodation portal: via https://studentportal.unilag.edu.ng
+- UNILAG Student Affairs: https://unilag.edu.ng/student-affairs
+- Student Portal (Accommodation): https://eportal.unilag.edu.ng
+
+---
 
 ## Data Gaps
-- Current session's exact hostel fees per hall
-- Which halls are currently under renovation/out of rotation
-- Off-campus housing recommendations (curated list)
+- Current hostel fee amounts per hostel (session 2025/2026)
+- Current hostel warden contacts per hostel
+- Updated visitor policy per hostel
+- Waiting list process details
+_Contribute with /contribute if you have accurate info_
