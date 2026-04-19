@@ -90,7 +90,7 @@ export function ContributeForm({ user, contributionCount, onContribute }: Props)
           </div>
         )}
 
-        <h2 className="uc-title">Thank you 🙌</h2>
+        <h2 className="uc-title">Thank you</h2>
         <p className="uc-body">
           An admin will review your submission. UniClaw gets smarter thanks to students like you.
         </p>

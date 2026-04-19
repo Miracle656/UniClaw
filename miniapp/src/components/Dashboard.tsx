@@ -75,8 +75,7 @@ export function Dashboard({ user, faculty, streak, onAction }: Props): JSX.Eleme
       <div className="dashboard-hero">
         <div className="hero-eyebrow">UniClaw · UNILAG{faculty ? ` · ${faculty}` : ""}</div>
         <h1 className="hero-title">
-          {greeting},{" "}
-          <span style={{ display: "inline" }}>{name} 👋</span>
+          {greeting}, {name}
         </h1>
         <p className="hero-subtitle">
           Ask me anything about campus — I only answer from verified information.

@@ -21,19 +21,36 @@ const EMPTY_SUGGESTIONS = [
   { icon: "food" as const, text: "Best food spots near campus?" },
 ];
 
-const FOLLOWUP_MAP: Record<string, string[]> = {
-  hostel: ["How much is the hostel fee?", "Which halls are co-ed?", "How do I apply?"],
-  exam: ["Where do I check my results?", "What's the grading system?", "How are carry-overs handled?"],
-  food: ["Which spot is cheapest?", "What are the opening hours?", "Is there a cafeteria near Faculty of Science?"],
-  registr: ["What's the deadline?", "How many units can I take?", "Where do I get my course form?"],
-  event: ["When is the next event?", "How do I get involved?", "Who organises campus events?"],
-  contact: ["What's the Dean's office number?", "Where is the admin block?", "Any 24/7 emergency contacts?"],
-};
+const FOLLOWUP_RULES: Array<{ pattern: RegExp; suggestions: string[] }> = [
+  {
+    pattern: /\bhostels?\b|\bhalls?\b|\baccommodation\b/i,
+    suggestions: ["How much is the hostel fee?", "Which halls are co-ed?", "How do I apply?"],
+  },
+  {
+    pattern: /\bexams?\b|\bresults?\b|\bgrad(?:ing|e)\b|\bcarry[- ]?overs?\b/i,
+    suggestions: ["Where do I check my results?", "What's the grading system?", "How are carry-overs handled?"],
+  },
+  {
+    pattern: /\bfood\b|\bcafeterias?\b|\brestaurants?\b|\beats?\b/i,
+    suggestions: ["Which spot is cheapest?", "What are the opening hours?", "Is there a cafeteria near Faculty of Science?"],
+  },
+  {
+    pattern: /\bregistrations?\b|\bregister\b|\bcourse form\b|\bunits?\b/i,
+    suggestions: ["What's the deadline?", "How many units can I take?", "Where do I get my course form?"],
+  },
+  {
+    pattern: /\bevents?\b|\bceremony\b|\bcultural\b/i,
+    suggestions: ["When is the next event?", "How do I get involved?", "Who organises campus events?"],
+  },
+  {
+    pattern: /\bcontacts?\b|\bdean\b|\bemergency\b|\boffice\b/i,
+    suggestions: ["What's the Dean's office number?", "Where is the admin block?", "Any 24/7 emergency contacts?"],
+  },
+];
 
 function getFollowUps(text: string): string[] {
-  const t = text.toLowerCase();
-  for (const [key, suggestions] of Object.entries(FOLLOWUP_MAP)) {
-    if (t.includes(key)) return suggestions;
+  for (const { pattern, suggestions } of FOLLOWUP_RULES) {
+    if (pattern.test(text)) return suggestions;
   }
   return ["Tell me more", "Give me contacts for this", "Any important deadlines?"];
 }
